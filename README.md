@@ -4,7 +4,6 @@
 
 [Live demo](https://paarth-sharma.vercel.app/)
 
-![Home page screenshot](public/social/screenshot.png?raw=true "Home page screenshot")
 
 ## Instructions to use after cloning
 
