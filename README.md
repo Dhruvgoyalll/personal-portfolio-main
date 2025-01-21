@@ -2,7 +2,7 @@
 
 ## A clumination of one year worth of work learning Three.js and Blender along the way
 
-[Live demo](https://paarth-sharma.vercel.app/)
+[Live demo](https://personal-portfolio-main-peach.vercel.app/)
 
 
 ## Instructions to use after cloning
